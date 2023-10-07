@@ -1,0 +1,12 @@
+{
+  "name": "1006_atividade07",
+  "version": "1.0.0",
+  "description": "1. Crie quatro funções (somar, subtrair, dividir e multiplicar). Em seguida faça uma função chamada calcular(), essa função deve receber 3 parâmetros, valor A, valor B e a função callback que será executada.",
+  "main": "exercicio01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
